@@ -4,7 +4,7 @@
     {
         public string GetMessage()
         {
-            return "Hello from ModuleAAA!";
+            return "Hello from ModuleA!";
         }
     }
 }
