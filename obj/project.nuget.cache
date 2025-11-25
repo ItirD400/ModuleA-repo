@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BNfCxl+pWac=",
+  "dgSpecHash": "xVMkZURdDEQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\OneDrive\\工作區\\處理中\\GitSubmoduleDemo\\ModuleA\\ModuleA.csproj",
+  "projectFilePath": "C:\\Users\\user\\OneDrive\\工作區\\處理中\\GitSubmoduleDemo\\MainApp\\Modules\\ModuleA\\ModuleA.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
